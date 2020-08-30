@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+  padding: 0px; 
+  outline: none;
+  border: 0px;
+}
+
+
+
+.good{
+	display: block;
+	width: 100%;
+	height: 800px;
+	
+
+	
+  
+}
+.good img{
+	width: 100%;
+	height: 800px;
+}
+.good1{
+	display: block;
+	width: 100%;
+	height: 800px;
+	
+}
+.good1 img{
+	width: 100%;
+	height: 800px;
+}
+.good2{
+	display: block;
+	width: 100%;
+	height: 800px;
+	
+  
+}
+.good2 img{
+	width: 100%;
+	height: 800px;
+}
